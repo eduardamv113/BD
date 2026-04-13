@@ -13,7 +13,7 @@ It follows the complete lifecycle of database creation—from initial requiremen
 
 *Development Phases*
 
-1.System Definition: Justification for using a Relational Database model.
+1. System Definition: Justification for using a Relational Database model.
 
 2. Requirements Analysis: Defining how data is described, manipulated, and controlled.
 
