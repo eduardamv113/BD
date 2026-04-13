@@ -17,7 +17,7 @@ It follows the complete lifecycle of database creation—from initial requiremen
 
 2. Requirements Analysis: Defining how data is described, manipulated, and controlled.
 
-3, Conceptual Model: Designing the Entity-Relationship (ER) Diagram, identifying key entities and their attributes.
+3. Conceptual Model: Designing the Entity-Relationship (ER) Diagram, identifying key entities and their attributes.
 
 4. Logical & Physical Model: Mapping the ER diagram into relational tables and implementing the schema in SQL.
 
